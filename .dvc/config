@@ -1,0 +1,4 @@
+[core]
+    remote = myremotedvc
+['remote "myremotedvc"']
+    url = C:\Users\Pratik\AppData\Local\Temp
